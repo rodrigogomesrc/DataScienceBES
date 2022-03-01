@@ -5,6 +5,6 @@ Código gerado no contexto da disciplina de Ciência de Dados do Bacharelado em 
 
 ## Participantes
 
-José Marcílio Furtado Jucá
-Rodrigo Gomes da Rocha
-Vitor Hugo Araujo Pinto
+- José Marcílio Furtado Jucá
+- Rodrigo Gomes da Rocha
+- Vitor Hugo Araujo Pinto
