@@ -9,6 +9,6 @@ Código gerado no contexto da disciplina de Ciência de Dados do Bacharelado em 
 - Rodrigo Gomes da Rocha
 - Vitor Hugo Araujo Pinto
 
-  ## Análise feita
+## Análise feita
 
-  Foi analisado se a quantidade de alunos em uma turma influencia no desempenho e índice de trancamento
+Foi analisado se a quantidade de alunos em uma turma influencia no desempenho e índice de trancamento
